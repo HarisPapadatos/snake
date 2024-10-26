@@ -1,6 +1,0 @@
-﻿  Source.cpp
-E:\Χαραλαμπής\Άλλα\Coding\Projects\Snake\Snake\Source.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
-E:\Χαραλαμπής\Άλλα\Coding\Projects\Snake\Snake\Source.cpp(157,21): warning C4018: '>': signed/unsigned mismatch
-E:\Χαραλαμπής\Άλλα\Coding\Projects\Snake\Snake\Source.cpp(161,21): warning C4018: '>': signed/unsigned mismatch
-E:\Χαραλαμπής\Άλλα\Coding\Projects\Snake\Snake\Source.cpp(186): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
-  Snake.vcxproj -> E:\Χαραλαμπής\Άλλα\Coding\Projects\Snake\x64\Debug\Snake.exe
